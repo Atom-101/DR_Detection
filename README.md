@@ -5,7 +5,7 @@ This repository showcases the work I did for the [APTOS 2019 Blindness Detection
 The aim was to build a model to detect Diabetic Retinopathy from Fundus Photographs of the retina. The ouputs are integers between 0 to 4, with 0 indicating no disease and 4 indicating Proliferative DR. The evaluation criterion was quadratic weighted Cohen's Kappa Score. More detailed description can be found on Kaggle(linked above).
 
 
-# Description of approach
+# Description
 
 I tried several approaches. Relevant notebooks for these, along with their descriptions are in separate directories. The notebooks present on the root directory of this repository were used to train the best submission. The Kaggle kernel used for the best submission is [here](https://www.kaggle.com/atmadeepb/best-submission).
 
